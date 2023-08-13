@@ -1,6 +1,6 @@
 # Hi there 👋
 
-##### Transitioning from a science educator to a tech enthusiast, I'm weaving my skills into the digital realm. Projects like [UFMBC](https://ufmbc.org) and [ReWork](https://reworkbywj.com) are my canvas, where I blend JavaScript finesse and React mastery for immersive experiences.
+##### Shifting from a background in education to a realm of tech, I'm blending my skills into the digital landscape. Projects like [UFMBC](https://ufmbc.org) and [ReWork](https://reworkbywj.com) are my canvas, where I blend JavaScript finesse and React mastery for immersive experiences.
 
 ##### As an advocate, I'm driven to make tech accessible and engaging. Science classrooms were my platform, now websites are my canvas, painted with code.
 
