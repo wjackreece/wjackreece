@@ -6,6 +6,6 @@
 
 ### Dive into my journey at [LinkedIn](https://www.linkedin.com/in/wynstona-jackreece/) and let's craft a future where technology empowers and connects. 
 
-##Guiding others to unlock tech's potential is my passion. 
+## Guiding others to unlock tech's potential is my passion. 
 
-##Let's strive for progress together.
+## Let's strive for progress together.
