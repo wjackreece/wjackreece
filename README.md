@@ -1,4 +1,4 @@
-# Hi there 👋
+# Welcome to My World of Code: Where Imagination Meets Functionality
 
 ##### Shifting from a background in education to a realm of tech, I'm blending my skills into the digital landscape. Projects like [UFMBC](https://ufmbc.org) and [ReWork](https://reworkbywj.com) are my canvas, where I blend JavaScript finesse and React mastery for immersive experiences.
 
