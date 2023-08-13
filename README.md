@@ -8,4 +8,4 @@
 
 ### Guiding others to unlock tech's potential is my passion. 
 
-## Let's strive for progress together.
+## Let's collaborate and innovate together.
