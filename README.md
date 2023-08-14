@@ -4,7 +4,7 @@
 
 🌐 Projects like [UFMBC](https://ufmbc.org) and [ReWork](https://reworkbywj.com) showcase my fusion of skills. My coding journey centers around JavaScript and using power of frameworks like React to bring my ideas to life.
 
-🎯 Guiding others to unlock tech's potential is my passion. As an advocate, I'm driven to make tech accessible and engaging. I'm not just coding; I'm building bridges between dreams and reality.
+🎯 Guiding others to unlock tech's potential is my passion. As an advocate, I'm driven to make tech accessible and engaging. I'm not just coding; I'm building bridges between creativity and code.
 
 🔗 Explore more of my story on [LinkedIn](https://www.linkedin.com/in/wynstona-jackreece/). let's craft a future where technology empowers and connects, one line of code at a time.
 
